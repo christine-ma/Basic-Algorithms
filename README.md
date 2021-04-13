@@ -1,7 +1,7 @@
 # Basic-Algorithms Fall 2020
 
-PA1 - twothree.java\n
-PA2 - HaijackingFee.java\n
-PA3 - sparta.java\n
-PA4 - labrynth.java\n
-PA5 - inception.java\n
+PA1 - twothree.java <br />
+PA2 - HaijackingFee.java <br />
+PA3 - sparta.java <br />
+PA4 - labrynth.java <br />
+PA5 - inception.java <br />
